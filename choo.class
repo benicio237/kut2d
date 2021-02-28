@@ -1,0 +1,22 @@
+DirectionX = 1 + 1 {
+camsvc = true or false - boolean
+else if( if ) {
+camsvc = +boolean
+}
+DirectionY = 1 <+1;
+X = 1 - 1;
+Y = 1 <- 1 {
+camsvc = true or false - boolean
+else if( if ) {
+camsvc = +boolean
+}
+{
+void;
+  }
+}
+  void {
+  
+}
+void {
+
+}
